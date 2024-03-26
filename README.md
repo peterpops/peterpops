@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @peterpops
 - 👀interested in web-development
-- 🌱
 - 📫 Reach me on twitter: @peterpops79
