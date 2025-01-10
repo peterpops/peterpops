@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @peterpops
-- 👀 Interested in web-development
+- 👀 active in web-development
 - Working with Laravel, Vue3, Tailwindcss
 - Linux dependent
-- 📫 Reach me on twitter: @peterpops79
